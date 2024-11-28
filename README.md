@@ -1,4 +1,4 @@
-                                                                                                                 
+```                                                                                                                 
    *+++**********+++++*                                            ++*##%%%%##*++               +*######*++++*   
    ##%%%         #**#%                                           +*#%          %#*++          **#        %##**   
    #%           **##%                                          +**%              %#*+*       **#           %##   
@@ -14,6 +14,8 @@
     ***#%          ++*#  %#***         +*     #**#             %%#**             **#%       #**+            *##  
   ****##        +++**##   %%#*++     +*#      ****               %#**+         +*#%%         #***+        **#%   
   #%%%%##*****###%%%%%%     %%%#****#%     *##%%%%##*              %%#**++++**#%%            %%%%%#**+++**#%     
+
+```
                                                                                                                  
 
  You are a young programmer, fresh out of college, drawn to the allure of vintage computing. On a rainy afternoon, a thrift store visit uncovers an old desktop computer: a bulky tower with a dusty CRT monitor running *Zer0S*, an operating system long forgotten. Its nostalgic appearance belies a dark history, but curiosity drives you to take it home and boot it up.
