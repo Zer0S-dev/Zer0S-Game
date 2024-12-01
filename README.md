@@ -32,4 +32,4 @@ Your mission becomes a desperate struggle to uncover the truth and escape the ma
 
 Will you uncover the truth behind the Zer0S and escape, or will the beast behind the machine consume you, as it did those before you?
 
-Zer0S v1.0 - 1995                                                                                                               
+Zer0S v1.0 - 1995.                                                                                                               
